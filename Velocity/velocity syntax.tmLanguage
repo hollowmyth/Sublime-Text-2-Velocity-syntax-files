@@ -33,6 +33,10 @@
 			<key>name</key>
 			<string>keyword.operator.vm</string>
 		</dict>
+                <dict>
+			<key>include</key>
+			<string>text.html.basic</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.velocity</string>
